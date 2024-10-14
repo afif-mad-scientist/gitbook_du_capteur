@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [SUMMARY](summary.md)
 
 ## Impression 3D
 
@@ -13,4 +12,4 @@
 
 ## Projet
 
-* [Page 1](projet/page-1.md)
+* [Page](projet/page.md)
