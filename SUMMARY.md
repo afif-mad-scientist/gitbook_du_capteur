@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Sommaire](sommaire.md)
+* [SUMMARY](summary.md)
 
 ## Impression 3D
 
